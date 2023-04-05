@@ -26,7 +26,7 @@ class Simulation {
 
       blackhole: {
         position: new Vector3(0.0, -250.0, 250.0),
-        radius: 12.5,
+        radius: 50.5,
 
         // Ring definition - xyz is normal going through ring. Its magnitude determines inner radius.
         // w component determines outer radius
